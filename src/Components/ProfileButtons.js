@@ -30,7 +30,7 @@ function ProfileButtons() {
   return (
     <ButtonWrapper>
       <ButtonRow>
-        <Button>Edit Profile</Button>
+        <Button>Edit Profileeeeeeeeeeee</Button>
         <Button>Promotions</Button>
       </ButtonRow>
       <ButtonRow>
